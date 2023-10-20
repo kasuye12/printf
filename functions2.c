@@ -1,4 +1,4 @@
-#include "main.h"
+#include "kasu.h"
 
 /****************** PRINT POINTER ******************/
 /**

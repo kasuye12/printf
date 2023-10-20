@@ -1,4 +1,4 @@
-#include "main.h"
+#include "kasu.h"
 
 /**
  * get_width - Calculates the width for printing
